@@ -14,8 +14,13 @@ hhhhhhhhhhhhhhhhh
 fei feneg wang
 ljgldj lj
 wang is good doooooooood
+<<<<<<< HEAD
 d>>>>>> test
 tttttttttttttttttt
 wwwwwwwwwwwwwwwwww
 ffffffffffffffffff
 >>>>>>> master
+=======
+jjjjjjjjjjjjjjjjj
+kkkkkkkkkkkkkkkkk
+>>>>>>> test
