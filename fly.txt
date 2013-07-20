@@ -1,7 +1,13 @@
 wang teng fei
+<<<<<<< HEAD
 fei feneg wangd
 hhlkdj kjl
 dgl;j 
 lgkdj 
 gdjl; 
 lgjd 
+=======
+fei feneg wang
+ljgldj lj
+wang is good doooooooood
+>>>>>>> test
